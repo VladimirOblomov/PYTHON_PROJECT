@@ -4,7 +4,7 @@ from telebot import types
 
 
 
-bot = telebot.TeleBot("7169080535:AAHVqnpOLeYq3Kv7NH55druVtviGgJ-jgJQ")
+bot = telebot.TeleBot("")
 
 
 

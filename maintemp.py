@@ -3,8 +3,8 @@ import requests
 import json
 
 
-bot = telebot.TeleBot("7169080535:AAHVqnpOLeYq3Kv7NH55druVtviGgJ-jgJQ")
-API = '9463980907c33c97eff7ae91d3cfb002'
+bot = telebot.TeleBot("")
+API = ''
 
 
 
